@@ -78,3 +78,4 @@ module Dflipflop(d, clk, rst, q, qbar);
 
 
 **RESULTS**
+Hence ,program for flipflops and its truthtable is verified. Hence the program to verify flipflops and its truth table using verilog programming is verified.
